@@ -31,7 +31,7 @@ public class Configuration {
 
 			if (property == null)
 				Assert.fail(new StringBuffer("The key ").append(value)
-						.append(" is not configured in the ConfigDictionary for Test Bed : ").toString());
+						.append(" is not configured in the ConfigDictionary : ").toString());
 			return property;
 		} catch (Exception exception) {
 			return null;
