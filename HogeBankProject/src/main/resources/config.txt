@@ -1,0 +1,8 @@
+browser = Chrome
+url = https://anylogi-recruitment.web.app
+uname = Test1
+pwd = Test@2022
+loginPath = /singup
+signupPath = /singup
+depositPath = /deposit
+withdrawPath = /withdraw
